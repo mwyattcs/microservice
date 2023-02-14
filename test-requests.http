@@ -1,0 +1,11 @@
+### Request 1: Retrieve the last 16 weeks of new COVID-19 cases data for the state of California
+GET http://localhost:3010/cases/CA HTTP/1.1
+
+### Request 2: Retrieve the last 16 weeks of new COVID-19 deaths data for the state of California
+GET http://localhost:3010/deaths/CA HTTP/1.1
+
+### Request 3: Retrieve the last 16 weeks of new COVID-19 cases data for the state of Oregon
+GET http://localhost:3010/cases/OR HTTP/1.1
+
+### Request 3: Retrieve the last 16 weeks of new COVID-19 deaths data for the state of Oregon
+GET http://localhost:3010/cases/OR HTTP/1.1
